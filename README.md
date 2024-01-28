@@ -1,2 +1,2 @@
 ## JBL sitesi HTML ve CSS kullanılarak yapılmıştır.
-<img src="jbl.gif"># JBL-clone
+<img src="/images/jbl.gif"># JBL-clone
